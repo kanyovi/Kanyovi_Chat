@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "385476273715",
+    "project_id": "kanyovi-chat",
+    "storage_bucket": "kanyovi-chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385476273715:android:e8b8bf7a0ceb85b7a5a546",
+        "android_client_info": {
+          "package_name": "com.example.kanyovi_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385476273715-najdeukrq8od1b7d389ulmcrasmrrudl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBparAg__IwyuUzSmqlQLB9oIrsxom7OkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385476273715-najdeukrq8od1b7d389ulmcrasmrrudl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385476273715:android:753590bf5ad13d59a5a546",
+        "android_client_info": {
+          "package_name": "com.kanyovi.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385476273715-najdeukrq8od1b7d389ulmcrasmrrudl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBparAg__IwyuUzSmqlQLB9oIrsxom7OkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385476273715-najdeukrq8od1b7d389ulmcrasmrrudl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
